@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#10B981"></rect>
+  <path fill="#fff" d="M20 22h28l-2 20H22z"></path>
+  <circle cx="26" cy="46" r="3" fill="#fff"></circle>
+  <circle cx="42" cy="46" r="3" fill="#fff"></circle>
+  <path fill="#fff" d="M26 20a6 6 0 1 1 12 0h4a10 10 0 0 0-20 0h4z"></path>
+
+  <!-- Mini Ecommerce Text -->
+  <text x="32" y="60" font-size="6" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif">
+    Mini Ecommerce
+  </text>
+</svg>
