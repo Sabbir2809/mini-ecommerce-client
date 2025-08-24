@@ -22,7 +22,7 @@ A single-page application to showcase products, manage a cart, and simulate chec
 
 ## 🚀 Live Link
 
-🔗 [https://mini-ecommerce.netlify.app]
+🔗 https://mini-ecommerce-client.netlify.app
 
 ## ⚙️ Environment Variables Setup
 
